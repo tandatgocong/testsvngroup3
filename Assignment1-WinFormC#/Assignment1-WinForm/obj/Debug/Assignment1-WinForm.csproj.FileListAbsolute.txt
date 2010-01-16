@@ -1,0 +1,10 @@
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\bin\Debug\Assignment1-WinForm.exe
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\bin\Debug\Assignment1-WinForm.pdb
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\obj\Debug\Assignment1.Form1.resources
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\obj\Debug\Assignment1-WinForm.csproj.GenerateResource.Cache
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\obj\Debug\Assignment1-WinForm.exe
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\obj\Debug\Assignment1-WinForm.pdb
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinFormC#\Assignment1-WinForm\obj\Debug\Assignment1-WinForm.exe
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinFormC#\Assignment1-WinForm\obj\Debug\Assignment1-WinForm.pdb

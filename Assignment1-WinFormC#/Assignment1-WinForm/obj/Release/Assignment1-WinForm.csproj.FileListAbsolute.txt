@@ -1,0 +1,10 @@
+D:\Bai tap\C#\Assignment1-WinForm\Assignment1-WinForm\bin\Release\Assignment1-WinForm.exe
+D:\Bai tap\C#\Assignment1-WinForm\Assignment1-WinForm\bin\Release\Assignment1-WinForm.pdb
+D:\Bai tap\C#\Assignment1-WinForm\Assignment1-WinForm\obj\Release\ResolveAssemblyReference.cache
+D:\Bai tap\C#\Assignment1-WinForm\Assignment1-WinForm\obj\Release\Assignment1.Form1.resources
+D:\Bai tap\C#\Assignment1-WinForm\Assignment1-WinForm\obj\Release\Assignment1.Properties.Resources.resources
+D:\Bai tap\C#\Assignment1-WinForm\Assignment1-WinForm\obj\Release\Assignment1-WinForm.csproj.GenerateResource.Cache
+D:\Bai tap\C#\Assignment1-WinForm\Assignment1-WinForm\obj\Release\Assignment1-WinForm.exe
+D:\Bai tap\C#\Assignment1-WinForm\Assignment1-WinForm\obj\Release\Assignment1-WinForm.pdb
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\obj\Release\Assignment1-WinForm.exe
+C:\Documents and Settings\XxChickenxX\Desktop\Assignment1-WinForm\Assignment1-WinForm\obj\Release\Assignment1-WinForm.pdb
